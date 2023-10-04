@@ -1,7 +1,6 @@
 ### Hi there 👋. I'm Natiene 😎
 
 - 🔭 I’m currently working on frontend.
-- 🌱 I’m currently learning react with typescript and react native.
 
 <div align="center">
   <a href="https://github.com/Natiene">
