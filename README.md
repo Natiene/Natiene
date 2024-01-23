@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Natiene 😎
 
-- 🔭 I’m currently working on frontend.
+- 🔭 I’m Software Engineer focused on frontend.
 
 <div align="center">
   <a href="https://github.com/Natiene">
