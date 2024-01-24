@@ -1,4 +1,5 @@
-<img align="left" width="400px" src="https://github.com/Natiene/Natiene/assets/32619832/421fcfe2-8ec6-4ee2-ad17-129be2897556">
+<img align="left" width="300px" src="https://github.com/Natiene/Natiene/assets/32619832/e0198021-12e4-4f06-8a56-39af57452eb6">
+
 
 </br>
 </br>
