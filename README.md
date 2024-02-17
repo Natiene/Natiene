@@ -17,7 +17,7 @@
 
 - I'm from Brazil and I live in São Paulo
 - 🎮 I love games, but I'm not very good at playing 😂
-- ☕ Coffee for any time or weather 🌤️ 🌦️
+- ~~☕ Coffee~~ 🍫Chocolate for any time or weather 🌤️ 🌦️
 - 🔧 Official bug Creator 🔥
 - 🔍 Experienced in finding and solving problems
 
