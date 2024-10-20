@@ -39,7 +39,7 @@
 
  
   <div align="center" >
-<a href="https://natienecardoso.com.br"   >
+<a href="https://naticardoso.com.br"   >
   <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,next,tailwind,sass,docker,jest,styledcomponents" />
 </a>
   <br />
