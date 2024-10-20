@@ -33,10 +33,32 @@
 
 ##
 
-<div display="inline-block" align="center">
-  <a href="https://github.com/Natiene">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natiene&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natiene&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Natiene&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natiene&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https:natienecardoso.com.br"   >
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,next,tailwind,sass,docker,jest,styledcomponents" />
+</a>
+  <br />
+
+  </div>
+
+ 
+  
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
 
 
